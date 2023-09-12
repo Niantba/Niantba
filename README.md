@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Audrey 👋</h1>
 
-<h3 align="center">Junior Full-Stack Web Developer | Former Digital Marketing</h3>
+<h3 align="center">Junior Full-Stack Web Developer | Digital Marketing Specialist</h3>
 
 Digital Marketing Specialist turned Junior Full-Stack Developper, I'm eager to learn more stacks
 - 🔭 I’m currently working on building my portfolio
