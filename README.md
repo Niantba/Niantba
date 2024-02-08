@@ -4,7 +4,7 @@
 
 Digital Marketing Specialist turned Junior Full-Stack Developer, I'm eager to learn more stacks
 - 👩‍🎓 I graduated from the Web Development BootCamp at Le Wagon Montreal
-- 📱 Watch the presentation of our project PlantIt <a href="https://www.linkedin.com/events/demoday-full-timewebdevelopment7101903523700690945/comments/" target="_blank">here</a>
+- 📱 Watch the presentation of our project PlantIt <a href="https://youtu.be/atUranIWFDE?feature=shared&t=562" target="_blank">here</a>
 - 🔭 I’m currently working on small projects
 - 🌱 I'm currently learning React
 - 💼 I'm currently seeking work as a junior developer
